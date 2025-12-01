@@ -4,7 +4,7 @@ Ce dépôt contient un notebook Jupyter intitulé **KASMI.ipynb** pour un projet
 
 ## Objectif
 
-L’objectif de la séance est de classer automatiquement des fichiers audio appartenant à 10 classes différentes à partir d’un corpus fourni, en allant jusqu’à l’extraction de spectrogrammes (représentation temps/fréquence du signal audio) assimilés à des images pour le traitement.
+L’objectif est de classer automatiquement des fichiers audio appartenant à 10 classes différentes à partir d’un corpus fourni, en allant jusqu’à l’extraction de spectrogrammes (représentation temps/fréquence du signal audio) assimilés à des images pour le traitement.
 
 Les classes du corpus sont :
 - tronçonneuse (`chainsaw`)
